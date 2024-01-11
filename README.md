@@ -5,4 +5,4 @@
 - Video tagı kullanıldı.
 
 
-<img src="Netflix Clone.mov">
+<img src="Screen Recording 2024-01-11 at 07.46.16 PM.gif"># Netflix-Clone
